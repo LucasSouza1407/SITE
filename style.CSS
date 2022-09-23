@@ -101,8 +101,6 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     display: flex;
-
-    
 }
 
 .footer .container{
@@ -116,7 +114,11 @@ body{
     text-transform: uppercase;
 }
 
- a {
-    color: skyblue;
+a {
+    color: #e3b062;
     text-decoration: none;
- }
+}
+
+.tamsenha {
+    font-size: 96%;
+}
